@@ -9,7 +9,7 @@ Wymagania:
 1. Aplikacja powinna umożliwiać dodawanie nowych zadań.
 2. Każde zadanie powinno mieć unikalny identyfikator, tytuł, opis, datę utworzenia i
 status (np. "do zrobienia", "w trakcie", "zakończone").
-3. Dane o zadaniach powinny być przechowywane w bazie danych.
+3. Dane o zadaniach powinny być przechowywane w oddzielnym pliku
 4. Aplikacja powinna umożliwiać przeglądanie listy zadań.
 5. Użytkownik powinien móc wyświetlić wszystkie zadania lub filtrować je według
 statusu (np. wyświetlanie tylko zadań do zrobienia).
